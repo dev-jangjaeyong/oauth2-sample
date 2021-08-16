@@ -1,0 +1,68 @@
+server:
+  port: 29001
+  context-path: /restauth
+
+
+logging:
+  level:
+    ROOT: info
+    org:
+      hibernate:
+        type: trace
+      springframework:
+        security: debug
+        boot: debug
+
+#security:
+#  basic:
+#    enabled: false
+#  user:
+#    name: user
+#    password: test
+#
+#security.oauth2.authorization.token-key-access: isAuthenticated()
+#datasource:
+#  master:
+#    url: jdbc:mysql://58.225.57.30:9306/big_auth?useSSL=false&serverTimezone=UTC
+#    username: biguser
+#    password: dec#$1232
+#    driver-class-name: com.mysql.jdbc.Driver
+#    max-active: 200
+#    max-wait: 1000
+
+spring:
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.16.152:9306/big_auth?autoReconnect=true
+    username: biguser
+    password: dec#$1232
+    hikari:
+      maximum-pool-size: 20
+      max-lifetime: 3000
+      connection-timeout: 60000
+      minimum-idle: 5
+      validation-timeout: 3000
+      connection-test-query: SELECT 1
+    tomcat:
+      test-on-borrow: true
+      validation-query: SELECT 1
+      time-between-eviction-runs-millis: 3000
+      test-while-idle: true
+      max-wait: 10000
+
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/test_db?useUnicode=true&characterEncoding=utf8&useSSL=true
+#    username: root
+#    password: 1234
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true

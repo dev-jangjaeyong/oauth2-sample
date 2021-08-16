@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="361782f6-d4cd-44e7-ae01-cc1825ae9880" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>web</find>
+      <find>processor</find>
+      <find>beans</find>
+      <find>StrictMapAppenderConstructor</find>
+      <find>vali</find>
+      <find>spring-boot-starter-security</find>
+      <find>&gt;spring-boot-starter-jdbc</find>
+      <find>com.example.auth.user.model.LoginUser</find>
+      <find>LoginUser</find>
+      <find>com.example</find>
+      <find>tomcat</find>
+      <find>maven-jar-plugin</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\intelij_project\big_auth\src</dir>
+    </dirStrings>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-611" />
+    <option name="y" value="-1800" />
+    <option name="width" value="1600" />
+    <option name="height" value="1800" />
+  </component>
+  <component name="ProjectId" id="1Z0YoSBLwEdk4SUje5YpCG31QKS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574406323761" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.big.auth.util" />
+      <recent name="com.big.auth.common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\intelij_project\big_auth\src\main\resources" />
+      <recent name="C:\intelij_project\big_auth\src\main\java\com\big\auth" />
+      <recent name="C:\intelij_project\big_auth\src\main\java\com\big" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthApplication">
+    <configuration name="big_auth [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="big_auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.big.auth.AuthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.big_auth [package]" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\intelij_project\big_auth" />
+          <option name="myCopyRoot" value="C:\intelij_project\big_auth" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\intelij_project\big_auth" />
+          <option name="myCopyRoot" value="C:\intelij_project\big_auth" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="361782f6-d4cd-44e7-ae01-cc1825ae9880" name="Default Changelist" comment="" />
+      <created>1574230152568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574230152568</updated>
+      <workItem from="1574230162627" duration="2059000" />
+      <workItem from="1574232580558" duration="6796000" />
+      <workItem from="1574239692924" duration="300000" />
+      <workItem from="1574240130226" duration="4779000" />
+      <workItem from="1574319435632" duration="1365000" />
+      <workItem from="1574344718968" duration="13828000" />
+      <workItem from="1574644526712" duration="50000" />
+      <workItem from="1583977656786" duration="695000" />
+      <workItem from="1589346004053" duration="181000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1574320037347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574320037347</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1574320103058</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574320103058</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1574389915486</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574389915486</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1574390680478</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574390680478</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1574394283764</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574394283764</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1574394751799</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574394751799</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1574395345803</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574395345803</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1574395462057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574395462057</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1574395610492</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574395610492</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1574395862739</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1574395862739</updated>
+    </task>
+    <task id="LOCAL-00011">
+      <created>1574396067733</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574396067733</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1574396885403</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1574396885403</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1574397482631</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574397482631</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1574399583939</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1574399583939</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1574400792449</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574400792449</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1574402667635</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574402667635</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1574405656916</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574405656916</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1583977729074</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1583977729074</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="923" y="-1808" key="CommitChangelistDialog2" timestamp="1583977728441">
+      <screen x="-999" y="-2160" width="3072" height="1688" />
+    </state>
+    <state x="923" y="-1808" key="CommitChangelistDialog2/0.0.1920.1040/-999.-2160.3072.1688@-999.-2160.3072.1688" timestamp="1583977728441" />
+    <state width="1494" height="462" key="GridCell.Tab.0.bottom" timestamp="1583978861183">
+      <screen x="-999" y="-2160" width="3072" height="1688" />
+    </state>
+    <state width="1494" height="462" key="GridCell.Tab.0.bottom/0.0.1920.1040/-999.-2160.3072.1688@-999.-2160.3072.1688" timestamp="1583978861183" />
+    <state width="1494" height="462" key="GridCell.Tab.0.center" timestamp="1583978861183">
+      <screen x="-999" y="-2160" width="3072" height="1688" />
+    </state>
+    <state width="1494" height="462" key="GridCell.Tab.0.center/0.0.1920.1040/-999.-2160.3072.1688@-999.-2160.3072.1688" timestamp="1583978861183" />
+    <state width="1494" height="462" key="GridCell.Tab.0.left" timestamp="1583978861183">
+      <screen x="-999" y="-2160" width="3072" height="1688" />
+    </state>
+    <state width="1494" height="462" key="GridCell.Tab.0.left/0.0.1920.1040/-999.-2160.3072.1688@-999.-2160.3072.1688" timestamp="1583978861183" />
+    <state width="1494" height="462" key="GridCell.Tab.0.right" timestamp="1583978861183">
+      <screen x="-999" y="-2160" width="3072" height="1688" />
+    </state>
+    <state width="1494" height="462" key="GridCell.Tab.0.right/0.0.1920.1040/-999.-2160.3072.1688@-999.-2160.3072.1688" timestamp="1583978861183" />
+    <state x="814" y="-1673" key="SettingsEditor" timestamp="1583977677383">
+      <screen x="-999" y="-2160" width="3072" height="1688" />
+    </state>
+    <state x="814" y="-1673" key="SettingsEditor/0.0.1920.1040/-999.-2160.3072.1688@-999.-2160.3072.1688" timestamp="1583977677383" />
+    <state x="968" y="-1769" width="672" height="678" key="search.everywhere.popup" timestamp="1583977671402">
+      <screen x="-999" y="-2160" width="3072" height="1688" />
+    </state>
+    <state x="968" y="-1769" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-999.-2160.3072.1688@-999.-2160.3072.1688" timestamp="1583977671402" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>@types/typescript-deferred</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>big_auth</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,73 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "name": "datasource.master",
+      "type": "com.big.config.datasource.properties.MasterDataSourceProperties"
+    },
+    {
+      "sourceType": "com.big.auth.AuthApplication",
+      "name": "spring.datasource",
+      "sourceMethod": "dataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "name": "datasource.master.driver-class-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "defaultValue": 0,
+      "name": "datasource.master.initial-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "defaultValue": 0,
+      "name": "datasource.master.max-active",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "defaultValue": 0,
+      "name": "datasource.master.max-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "defaultValue": 0,
+      "name": "datasource.master.max-wait",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "defaultValue": 0,
+      "name": "datasource.master.min-idle",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "name": "datasource.master.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "name": "datasource.master.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "name": "datasource.master.username",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.big.config.datasource.properties.MasterDataSourceProperties",
+      "name": "datasource.master.validation-query",
+      "type": "java.lang.String"
+    }
+  ]
+}
